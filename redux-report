@@ -1,0 +1,5 @@
+Redux(library) is javascript application,can be used with react,vue ,angualr or any framework.
+
+1. Redux is a predictable state container for js apps
+   2.-even though useContext+useReducer can do all most everything reducer can do still redux is helpul and popular.It cannot be completly replaced
+   -REACT-REDUX IS A LIBRARY THAT PROVIDES US WITH SOME EXTRA FUNCTIONALITIES TO WORK WITH REACT AND REDUX TOGETHER
